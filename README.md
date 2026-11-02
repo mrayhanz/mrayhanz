@@ -2,7 +2,7 @@
 
 # Hey, I'm Rayhan 👋
 
-Exploring web development, mobile apps, and machine learning.
+Exploring web development, mobile apps, and machine learning.  
 Currently studying at Politeknik Negeri Malang.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrayhanz.my.id-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://mrayhanz.my.id/)
@@ -25,12 +25,15 @@ Currently studying at Politeknik Negeri Malang.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrayhanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-![GitHub streak](https://streak-stats.demolab.com?user=mrayhanz&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrayhanz&theme=tokyonight" alt="GitHub contribution overview" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrayhanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-![Contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrayhanz&theme=tokyonight)
+<br />
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=mrayhanz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrayhanz&theme=tokyonight" alt="GitHub statistics" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrayhanz&theme=tokyonight" alt="Languages across repositories" />
+
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mrayhanz&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub streak" />
 
 </div>
