@@ -36,21 +36,9 @@ Collaboration — Always open to collaborating on thoughtful web, mobile, and AI
 
 Tech Stack
 
-Languages — Java · PHP · Dart · TypeScript · JavaScript · Python
-
-Web & Mobile — Laravel · Flutter · Tailwind CSS · HTML5 · CSS3
-
-AI & Data — Jupyter · OpenCV · NumPy · Pandas
-
-Database & Tools — MySQL · Git · GitHub · VS Code · Figma
-
-<div align="center">
-
-
-
-
-<img src="https://skillicons.dev/icons?i=java,php,laravel,dart,flutter,ts,js,py,html,css,tailwind,mysql,git,github,vscode,figma&perline=8" alt="Tech Stack Icons" />
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,php,laravel,dart,flutter,ts,js,py,html,css,tailwind,opencv,mysql,git,github,vscode&perline=16" height="32" alt="Tech Stack" />
+</p>
 
 GitHub Overview
 
