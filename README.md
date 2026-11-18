@@ -25,6 +25,5 @@ Currently studying Informatics at <b>Politeknik Negeri Malang</b> 📍 Malang, I
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrayhanz&theme=tokyonight" alt="Rayhan's GitHub Stats" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrayhanz&theme=tokyonight" alt="Top Languages by Repo" /><!-- GitHub Streak Stats -->
 <img width="65%" src="https://streak-stats.demolab.com?user=mrayhanz&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></div><div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrayhanz&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 <p><i>Thanks for visiting my profile! Have a great day ✨</i></p>
 </div>
